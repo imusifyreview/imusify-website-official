@@ -9,12 +9,15 @@ const Schedule = () => (
                 <Col md="10" className="offset-md-1">
                     <div className="title title3">
                         <div className="main-title">
-                            <h2><span>our</span> schedule</h2>
+                            <h2><span>Important:</span> Please Read</h2>
                         </div>
                         <div className="sub-title">
-                            <p>Register now and reserve your seat for this <span>year's Unice,</span> the
-                                largest <span>web development</span> and online marketing <span>conference in UK,</span>
-                                covering everything you need to know in order to develop a successful online business.</p>
+                            <p>The current people behind Imusify.com are <span>not affiliated with anything or anyone from the previous 2018-2019 Imusify team, 
+                                its ICO, or its IMU token. </span>
+                                
+                                The current Imusify is dedicated to analyze and review various crypto projects, especially those that are trying to improve
+                                the music industry through the utilization of blockchain. 
+                                We do not have any token and we do not have any plan to issue one.</p>
                         </div>
                     </div>
                 </Col>

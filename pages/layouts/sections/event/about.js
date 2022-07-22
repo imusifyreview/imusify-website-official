@@ -7,7 +7,7 @@ const About = () => (
                 <Col md="10" className="offset-md-1">
                     <div className="title title3 only-title">
                         <div className="main-title">
-                            <h2 className=" text-white">About event</h2>
+                            <h2 className=" text-white">How Blockchain Will Significantly Improve Music</h2>
                         </div>
                     </div>
                 </Col>
@@ -24,22 +24,22 @@ const About = () => (
                 <Col xl="5" lg="7" md="6" className="offset-xl-1">
                     <div className="abouts center-text">
                         <div className="format">
-                            <div className="format-small-text">
-                                <h6 className="text-white borders-before text-uppercase"><span>event progress</span></h6>
-                            </div>
+                            {/* <div className="format-small-text">
+                                <h6 className="text-white borders-before text-uppercase"><span>In fact, it's one of the most realistic use cases</span></h6>
+                            </div> */}
                             <div className="format-head-text">
-                                <h3 className="about-font-header text-white">Welcome To Business Meeting 2022</h3>
+                                <h3 className="about-font-header text-white">The Future Is Inevitable</h3>
                             </div>
                             <div className="format-sub-text">
-                                <p className="about-para">Lorem Ipsum is simply dummy text of the printing and
-                                typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since
-                                    the 1500s</p>
-                                <p className="about-para">When an unknown printer took a galley of type and scrambled it
-                                to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and
-                                typesetting
-                                    industry. Lorem Ipsum has been the industry's</p>
+                                <p className="about-para">Many skeptics criticize blockchain and NFT use cases in various industries
+                                 (i.e., gaming and finance)</p>
+                                <p className="about-para">Meanwhile, the music industry has been pretty much welcoming the 
+                                blockchain adoption.</p>
+                                <p className="about-para">Musicians have fans and the utilization of blockchain and NFT technology will tremendously
+                                    help musicians to maximize their revenues from their own fans, without the record labels 
+                                    cutting their profits left and right. If you want to learn more on how blockchain will help musicians 👇</p>
                             </div>
-                            <a className="btn btn-default " href="#">read more</a>
+                            <a className="btn btn-default " href="#">learn more</a>
                         </div>
                     </div>
                 </Col>

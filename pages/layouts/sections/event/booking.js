@@ -1,5 +1,6 @@
 import React from 'react'
 import {Container,Row,Col,Form,FormGroup} from 'reactstrap'
+
 const Booking = () =>
 {
      return (
@@ -11,16 +12,62 @@ const Booking = () =>
                 <Col md="10" className="offset-md-1">
                     <div className="title title3">
                         <div className="main-title">
-                            <h2><span>Book</span> Your Ticket</h2>
+                            <h2><span>The Most Promising</span> Crypto Music Projects</h2>
                         </div>
                         <div className="sub-title">
-                            <p>Register now and reserve your seat for this <span>year's Unice,</span> the
-                                largest <span>web development</span> and online marketing <span>conference in UK, </span>
-                                covering everything you need to know in order to develop a successful online business.</p>
+                            <p>Until today, there's still no crypto music project that has been able to become mainstream. We believe
+                                this will change anytime soon. Learn all the top projects in this category and where they stand now.
+                            </p>
+                            <div>&nbsp;</div>
+                            <table align="center" className="tabledesign">
+                                
+        <tr className="tabledesign">
+            <th className="tabledesign">No.</th>
+            <th className="tabledesign">Project</th>
+            <th className="tabledesign">Ticker</th>
+            <th className="tabledesign">Subcategory</th>
+            <th className="tabledesign">Review</th>
+        </tr>
+        <tr className="tabledesign">
+            <td className="tabledesign">1</td>
+            <td className="tabledesign">Audius</td>
+            <td className="tabledesign">AUDIO</td>
+            <td className="tabledesign">Web3 Streaming Platform</td>
+            <td className="tabledesign">Coming Soon</td>
+        </tr>
+        <tr className="tabledesign">
+            <td className="tabledesign">2</td>
+            <td className="tabledesign">Opulous</td>
+            <td className="tabledesign">OPUL</td>
+            <td className="tabledesign">Music NFT & DeFi Loans</td>
+            <td className="tabledesign">Coming Soon</td>
+        </tr>
+        <tr className="tabledesign">
+            <td className="tabledesign">3</td>
+            <td className="tabledesign">Melos Studio</td>
+            <td className="tabledesign">MELOS</td>
+            <td className="tabledesign">Music NFT Creation</td>
+            <td className="tabledesign">Coming Soon</td>
+        </tr>
+        <tr className="tabledesign">
+            <td className="tabledesign">4</td>
+            <td className="tabledesign">Viberate</td>
+            <td className="tabledesign">VIB</td>
+            <td className="tabledesign">Music Analytics</td>
+            <td className="tabledesign">Coming Soon</td>
+        </tr>
+        <tr className="tabledesign">
+            <td className="tabledesign">5</td>
+            <td className="tabledesign">The Husl</td>
+            <td className="tabledesign">HUSL</td>
+            <td className="tabledesign">Music NFT Marketplace</td>
+            <td className="tabledesign">Coming Soon</td>
+        </tr>
+    </table>
                         </div>
                     </div>
                 </Col>
-                <Col xs="12">
+                {/* <Col xs="12">
                     <Form className="m-b-35 row">
                         <Col>
                             <FormGroup className='form-group'>
@@ -52,7 +99,7 @@ const Booking = () =>
                     <div className="text-center">
                         <a className="btn btn-default primary-btn m-0-auto" href="#">register</a>
                     </div>
-                </Col>
+                </Col> */}
             </Row>
         </Container>
     </section>

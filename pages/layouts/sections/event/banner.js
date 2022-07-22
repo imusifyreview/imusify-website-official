@@ -1,5 +1,5 @@
 import React from 'react'
-import CountdownComponent from '../../../../containers/common/countdown';
+// import CountdownComponent from '../../../../containers/common/countdown';
 import {Container,Row,Col} from 'reactstrap'
 import { withRouter } from 'next/router';
 import Typewriter from 'typewriter-effect';
@@ -19,7 +19,7 @@ const Banner = ({router}) => {
                             <div className="center-text">
                                 <div className="text-center w-100">
                                     <div className="h1-margin">
-                                    <h1>Blockchain and Crypto Music Platforms&nbsp;<span className="typed">
+                                    <h1>Reviewing Crypto Music Platforms In The Web3&nbsp;<span className="typed">
                                         {/* <Typewriter
                                             options={{
                                                 strings: ['Compared'],
@@ -31,24 +31,22 @@ const Banner = ({router}) => {
                                     </div>
                                     <div className="wedding-time">
                                         <div>
-                                            <div className="event-countdown">
+                                            {/* <div className="event-countdown">
                                                 <CountdownComponent />
-                                            </div>
+                                            </div> */}
                                         </div>
                                     </div>
                                     <h4 className="text-white">
-                                        <i className="fa fa-map-marker m-r-10 text-white"></i>
-                                        Zexson Pro, New York, NY 254
-                                    </h4>
+                                       Built By Music Lovers,</h4>
+                                    <h4 className="text-white">For The Blockchain Enthusiasts</h4>
                                     <h5 className="header-sub-text text-white">
-                                        <i className="fa fa-calendar m-r-10"></i>
-                                        01-04 March 2022
+                                        We believe the blockchain will reshape the music industry. Imusify is dedicated to review promising crypto projects, especially in the music industry.
                                     </h5>
-                                    <div className="text-center link-horizontal">
+                                    {/* <div className="text-center link-horizontal">
                                         <a className=" btn btn-default back-white text-uppercase border-not" href="#">
-                                            view event details
+                                            Coming Soon
                                         </a>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </Col>
