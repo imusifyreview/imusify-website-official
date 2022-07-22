@@ -12,11 +12,15 @@ const Booking = () =>
                 <Col md="10" className="offset-md-1">
                     <div className="title title3">
                         <div className="main-title">
-                            <h2><span>The Most Promising</span> Crypto Music Projects</h2>
+                            <h2><span>Learn From The Most Promising</span> Crypto Music Projects</h2>
                         </div>
                         <div className="sub-title">
-                            <p>Until today, there's still no crypto music project that has been able to become mainstream. We believe
-                                this will change anytime soon. Learn all the top projects in this category and where they stand now.
+                            <p>Until today, there's still no crypto music project that has been able to 
+                                become mainstream enough. We at Imusify offer our services to help businesses understand and analyze 
+                                where the crypto music industry currently stands.</p> 
+                                <div>&nbsp;</div>
+                                <p>Learn how the top projects in this category got to where
+                                they are today and how you can compete against them.
                             </p>
                             <div>&nbsp;</div>
                             <table align="center" className="tabledesign">
@@ -26,7 +30,7 @@ const Booking = () =>
             <th className="tabledesign">Project</th>
             <th className="tabledesign">Ticker</th>
             <th className="tabledesign">Subcategory</th>
-            <th className="tabledesign">Review</th>
+            <th className="tabledesign">Analysis</th>
         </tr>
         <tr className="tabledesign">
             <td className="tabledesign">1</td>

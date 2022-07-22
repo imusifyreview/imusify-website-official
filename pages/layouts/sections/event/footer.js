@@ -8,16 +8,16 @@ const Footer = () => (
                     <Col md="6" className="offset-md-3">
                         <div className="title title3 only-title">
                             <div className="main-title">
-                                <h2 className=" text-white">Contact Us</h2>
+                                <h2 className=" text-white">Contact Us If You Are Interested</h2>
                             </div>
                         </div>
                     </Col>
-                    <Col xl="5" md="6" className="offset-xl-1 pe-0 map">
+                    {/* <Col xl="5" md="6" className="offset-xl-1 pe-0 map">
                         <div className="iframe-container">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2965.0824050173574!2d-93.63905729999999!3d41.998507000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sWebFilings%2C+University+Boulevard%2C+Ames%2C+IA!5e0!3m2!1sen!2sus!4v1390839289319"></iframe>
                         </div>
-                    </Col>
-                    <Col xl="5" md="6" className="ps-0 set-z-index form-footer">
+                    </Col> */}
+                    <Col xl="20" md="6" className="ps-0 set-z-index form-footer">
                         <div className="bg-white">
                             <Form>
                                 <Row>
@@ -89,7 +89,7 @@ const Footer = () => (
                         </div>
                     </Col>
                     <Col md="6">
-                        <p className="copyright-text text-end text-white">© 2022 Unice. All Rights Reserved </p>
+                        <p className="copyright-text text-end text-white">© 2022 Imusify. All Rights Reserved </p>
                     </Col>
                 </Row>
             </Container>

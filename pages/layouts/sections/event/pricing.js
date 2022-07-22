@@ -31,13 +31,12 @@ const Pricing = () => (
                 <Col md="10" className="offset-md-1">
                     <div className="title title3">
                         <div className="main-title">
-                            <h2 className=" text-white">our pricing plan</h2>
+                            <h2 className=" text-white">Imusify Packages</h2>
                         </div>
                         <div className="sub-title">
-                            <p className="text-white">Register now and reserve your seat for this
-                                <span>year's Unice,</span> the largest <span>web development</span> and online marketing
-                                <span>conference in UK,</span> covering everything you need to know in order to develop a
-                                successful online business.</p>
+                            <p className="text-white">We offer various services to crypto startups, from 
+                            token creation service to marketing offers. If you are in the music industry,
+                            we can also connect you to the right musicians and fans.</p>
                         </div>
                     </div>
                 </Col>
@@ -60,10 +59,10 @@ const Pricing = () => (
                                             </div>
                                             <div className="price-value">
                                                 <h6 className="price text-center font-primary">$<span
-                                                        className="large font-primary">{item.price}</span>/month</h6>
+                                                        className="large font-primary">{item.price}</span></h6>
                                             </div>
 
-                                            <a className="btn btn-default back-white" href="#">purchase</a>
+                                            <a className="btn btn-default back-white" href="#">Soon</a>
                                         </div>
                                     </div>
                                 </div>

@@ -19,7 +19,7 @@ const Banner = ({router}) => {
                             <div className="center-text">
                                 <div className="text-center w-100">
                                     <div className="h1-margin">
-                                    <h1>Reviewing Crypto Music Platforms In The Web3&nbsp;<span className="typed">
+                                    <h1>Empowering Crypto Music Platforms In The Web3&nbsp;<span className="typed">
                                         {/* <Typewriter
                                             options={{
                                                 strings: ['Compared'],
@@ -37,10 +37,10 @@ const Banner = ({router}) => {
                                         </div>
                                     </div>
                                     <h4 className="text-white">
-                                       Built By Music Lovers,</h4>
-                                    <h4 className="text-white">For The Blockchain Enthusiasts</h4>
+                                       Built By Experts,</h4>
+                                    <h4 className="text-white">For Blockchain Enthusiasts</h4>
                                     <h5 className="header-sub-text text-white">
-                                        We believe the blockchain will reshape the music industry. Imusify is dedicated to review promising crypto projects, especially in the music industry.
+                                        We believe the blockchain will reshape the music industry. Imusify is dedicated to empower promising crypto projects, especially in the music industry.
                                     </h5>
                                     {/* <div className="text-center link-horizontal">
                                         <a className=" btn btn-default back-white text-uppercase border-not" href="#">
@@ -56,7 +56,7 @@ const Banner = ({router}) => {
 
             {router.pathname !== '/elements/count-down' ? 
             <div className="set-bottom set-abs">
-                <a className="center-content down" onClick={()=>scrollToRef('booking')} >
+                <a className="center-content down" onClick={()=>scrollToRef('speaker')} >
                     <img alt="" className="scroll-down" src="/assets/images/event/image-down.png" />
                 </a>
             </div>

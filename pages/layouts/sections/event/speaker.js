@@ -9,16 +9,30 @@ const Speaker = () => (
                 <Col md="10" className="offset-md-1">
                     <div className="title title3">
                         <div className="main-title">
-                            <h2><span>our</span> speaker</h2>
+                            <h2><span>Our</span> Offers</h2>
                         </div>
                         <div className="sub-title">
-                            <p>Register now and reserve your seat for this <span>year's Unice,</span> the
-                                largest <span>web development</span> and online marketing <span>conference in UK,</span>
-                                covering everything you need to know in order to develop a successful online business.</p>
+                            <p>Imusify has multiple service offerings to help promote the right blockchain projects. As we all know, despite many of these startups successfully
+                                raised millions of dollars left and right, most of them are still struggling to reach actual customers. Imusify offers marketing and
+                                influencer services to help businesses reach their customers. Although Imusify focuses more on crypto music projects
+                                 but we still offer our services to the broader crypto ecosystem. Full details coming soon
+                            </p>
+                        </div>
+                    </div>
+                    <div className="title title3">
+                        <div className="main-title">
+                            <h2><span>Our</span> Vision</h2>
+                        </div>
+                        <div className="sub-title">
+                            <p>Imusify aims to become the de-facto promotion service for crypto startups. On top of that, we plan to become
+                                 the global hub to improve the relations between crypto music projects 
+                                and actual musicians who care about the fans. We realize the potential is massive in this
+                                industry, and we plan to fill the gap that still exists up to this day.
+                            </p>
                         </div>
                     </div>
                 </Col>
-                <Col md="3" sm="6"  className="speker-container">
+                {/* <Col md="3" sm="6"  className="speker-container">
                     <div className="text-center">
                         <div className="team-img">
                             <img alt="" className="img-fluid" src="/assets/images/event/l3-1.png" />
@@ -97,7 +111,7 @@ const Speaker = () => (
                             <h6 className="post text-center ">Team Leader - otstrab</h6>
                         </div>
                     </div>
-                </Col>
+                </Col> */}
             </Row>
         </Container>
     </section>

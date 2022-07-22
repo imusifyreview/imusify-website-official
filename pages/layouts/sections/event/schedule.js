@@ -9,19 +9,19 @@ const Schedule = () => (
                 <Col md="10" className="offset-md-1">
                     <div className="title title3">
                         <div className="main-title">
-                            <h2><span>Important:</span> Please Read</h2>
+                            <h2><span>Important Disclaimer</span> - Please Read:</h2>
                         </div>
                         <div className="sub-title">
                             <p>The current people behind Imusify.com are <span>not affiliated with anything or anyone from the previous 2018-2019 Imusify team, 
                                 its ICO, or its IMU token. </span>
                                 
-                                The current Imusify is dedicated to analyze and review various crypto projects, especially those that are trying to improve
+                                The current Imusify is a business that offers courses and promotional services to crypto projects, especially those that are trying to improve
                                 the music industry through the utilization of blockchain. 
                                 We do not have any token and we do not have any plan to issue one.</p>
                         </div>
                     </div>
                 </Col>
-                <Col xs="12">
+                {/* <Col xs="12">
                     <div className="cal-time">
                         <div className="time">
                             <h4 className="text-capitalize monday-text">Monday, September 30, 2022</h4>
@@ -123,7 +123,7 @@ const Schedule = () => (
                             </div>
                         </div>
                     </div>
-                </Col>
+                </Col> */}
             </Row>
         </Container>
     </section>

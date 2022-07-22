@@ -3,24 +3,24 @@ module.exports = {
 
     PricingData: [
         {
-            title: 'Free',
-            features: ['Easy Installations', 'Unlimited support', 'Free Forever'],
-            price: 0,
+            title: 'Promotion Service',
+            features: ['Telegram Marketing', 'Social Media Ads', 'Influencer Outreach'],
+            price: '?',
         },
         {
-            title: 'Silver',
-            features: ['Easy Installations', 'Unlimited support', 'Free Forever'],
-            price: 70,
+            title: 'Token Creation',
+            features: ['EVM-Compatible', 'Fully Secure', 'Multi-Audits'],
+            price: '?',
         },
         {
-            title: 'Golden',
-            features: ['Easy Installations', 'Unlimited support', 'Free Forever'],
-            price: 100,
+            title: 'Musicians Connection',
+            features: ['Direct Connection', 'Exclusive Deals', 'Access To Their Fans'],
+            price: '?',
         },
         {
-            title: 'Silver',
-            features: ['Easy Installations', 'Unlimited support', 'Free Forever'],
-            price: 70,
+            title: 'Web3 Frontend',
+            features: ['Easy Installation', 'Website Creation', 'React and Web3.js'],
+            price: '?',
         }
     ],
 
@@ -48,7 +48,7 @@ module.exports = {
     BlogData: [
         {
             photo: '/assets/images/event/blog/1.jpg',
-            title: 'Find Great Speaker For Event.',
+            title: 'Review Comparison',
             date: 'June 19, 2022',
             user: 'Admin',
             details: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.text ever since the 1500s type specimen book '

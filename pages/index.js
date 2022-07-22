@@ -7,7 +7,8 @@ import BannerSection from './layouts/sections/event/banner'
 import BookingSection from './layouts/sections/event/booking'
 import AboutSection from './layouts/sections/event/about'
 import SpeakerSection from './layouts/sections/event/speaker'
-import SponserSection from './layouts/sections/event/sponsor'
+import CryptoFutureSection from './layouts/sections/event/cryptofuture'
+// import SponserSection from './layouts/sections/event/sponsor'
 import ScheduleSection from './layouts/sections/event/schedule'
 import TestimonialSection from './layouts/sections/event/testimonial'
 import GallerySection from './layouts/sections/event/gallery'
@@ -29,7 +30,7 @@ const Event = () => {
     return (
         <div>
             <Head>
-                <title>Imusify - Blockchain and Crypto Music Platforms</title>
+                <title>Imusify - Empowering Crypto Music Platforms</title>
             </Head>
 
             <Header className="event nav-lg" />
@@ -42,17 +43,17 @@ const Event = () => {
 
             <SpeakerSection />
 
-            <SponserSection />
+            <CryptoFutureSection />
 
             <ScheduleSection />
 
-            <TestimonialSection />
+            {/* <TestimonialSection /> */}
 
-            <GallerySection />
+            {/* <GallerySection /> */}
 
-            <CounterSection />
+            {/* <CounterSection /> */}
 
-            <SubscribeSection />
+            {/* <SubscribeSection /> */}
 
             <PricingSection />
 
