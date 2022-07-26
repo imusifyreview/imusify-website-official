@@ -51,9 +51,9 @@ const CryptoFuture = () => (
                     <div className="text-end">
                         <div className="announcer-img">
                             <img alt="" className="img-fluid" src="/assets/images/event/1.jpg" />
-                            <img alt="" className="img-fluid" src="/assets/images/event/1.jpg" />
+                            <img alt="" className="img-fluid" src="/assets/images/event/atlas.jpg" />
                             <img alt="" className="img-fluid" data-tilt data-tilt-max="3" data-tilt-perspective="500"
-                                data-tilt-speed="400" src="/assets/images/event/cryptocurrencies.jpg" />
+                                data-tilt-speed="400" src="/assets/images/event/atlas.jpg" />
                         </div>
                     </div>
                 </Col>
