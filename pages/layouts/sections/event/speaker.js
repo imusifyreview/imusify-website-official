@@ -9,25 +9,30 @@ const Speaker = () => (
                 <Col md="10" className="offset-md-1">
                     <div className="title title3">
                         <div className="main-title">
-                            <h2><span>Our</span> Offers</h2>
+                            <h2><span>Our</span> Services For Crypto Projects</h2>
                         </div>
                         <div className="sub-title">
-                            <p>Imusify has multiple service offerings to help promote the right blockchain projects. As we all know, despite many of these startups successfully
-                                raised millions of dollars left and right, most of them are still struggling to reach actual customers. Imusify offers marketing and
-                                influencer services to help businesses reach their customers. Although Imusify focuses more on crypto music projects
+                            <p>Imusify has multiple service offerings to help promote the right blockchain projects. 
+                                As we all know, despite many of these startups successfully
+                                raised millions of dollars, most of them are still struggling to reach actual customers. 
+                                Imusify offers marketing and influencer services to help businesses grow naturally.</p> 
+                                <div>&nbsp;</div>
+                            <p>Although Imusify focuses more on crypto music projects
                                  but we still offer our services to the broader crypto ecosystem. Full details coming soon
                             </p>
                         </div>
                     </div>
                     <div className="title title3">
                         <div className="main-title">
-                            <h2><span>Our</span> Vision</h2>
+                            <h2><span>Our</span> Offers To Musicians</h2>
                         </div>
                         <div className="sub-title">
-                            <p>Imusify aims to become the de-facto promotion service for crypto startups. On top of that, we plan to become
-                                 the global hub to improve the relations between crypto music projects 
-                                and actual musicians who care about the fans. We realize the potential is massive in this
-                                industry, and we plan to fill the gap that still exists up to this day.
+                            <p>Imusify aims to become the global hub to improve the relations between crypto music projects 
+                                and real musicians who care about the fans. We realize the potential is massive in this
+                                industry, and we plan to fill the gap that still exists up to this day.</p>
+                                <div>&nbsp;</div>
+                            <p>If you are a musician who wants to promote yourself and connect to the right crypto projects,
+                                we are here to help
                             </p>
                         </div>
                     </div>

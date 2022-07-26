@@ -40,7 +40,7 @@ const Banner = ({router}) => {
                                        Built By Experts,</h4>
                                     <h4 className="text-white">For Blockchain Enthusiasts</h4>
                                     <h5 className="header-sub-text text-white">
-                                        We believe the blockchain will reshape the music industry. Imusify is dedicated to empower promising crypto projects, especially in the music industry.
+                                        We believe the blockchain will reshape how we listen to music. Imusify aims to connect promising cryptocurrency projects with the music industry.
                                     </h5>
                                     {/* <div className="text-center link-horizontal">
                                         <a className=" btn btn-default back-white text-uppercase border-not" href="#">

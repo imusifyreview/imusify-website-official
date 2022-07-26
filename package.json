@@ -2,8 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "next",
-    "prod:build": "next build",
-    "homepage": "https://react.pixelstrap.com/unice/"
+    "prod:build": "next build"
   },
   "dependencies": {
     "@apollo/client": "^3.6.9",

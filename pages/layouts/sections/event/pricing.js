@@ -31,12 +31,12 @@ const Pricing = () => (
                 <Col md="10" className="offset-md-1">
                     <div className="title title3">
                         <div className="main-title">
-                            <h2 className=" text-white">Imusify Packages</h2>
+                            <h2 className=" text-white">Imusify Packages For Companies</h2>
                         </div>
                         <div className="sub-title">
                             <p className="text-white">We offer various services to crypto startups, from 
-                            token creation service to marketing offers. If you are in the music industry,
-                            we can also connect you to the right musicians and fans.</p>
+                            token creation service to marketing offers. 
+                            we can also connect you to the right musicians and platforms.</p>
                         </div>
                     </div>
                 </Col>
