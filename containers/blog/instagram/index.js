@@ -5,34 +5,34 @@ const Instagram = ({}) => {
 
     return (
         <div>
-            <h5 className="blog-title">instagram</h5>
+            <h5 className="blog-title">Instagram (coming soon)</h5>
             <div className="sidebar-container insta">
                 <ul className="blog-insta">
                     <li>
                         <Link href="">
-                            <a href="#javascript">
-                            <img alt="" className="img-fluid" src="/assets/images/agency/blog/2.jpg" />
+                            <a href="#">
+                            <img alt="coming soon" className="img-fluid" src="/assets/images/event/blog/instagram-placeholder.png" />
                             </a>
                         </Link>
                     </li>
                     <li>
                         <Link href="">
-                            <a href="#javascript">
-                            <img alt="" className="img-fluid" src="/assets/images/agency/blog/3.png" />
+                        <a href="#">
+                            <img alt="coming soon" className="img-fluid" src="/assets/images/event/blog/instagram-placeholder.png" />
                             </a>
                         </Link>
                     </li>
                     <li>
                         <Link href="">
-                            <a href="#javascript">
-                            <img alt="" className="img-fluid" src="/assets/images/agency/blog/4.jpg" />
+                        <a href="#">
+                            <img alt="coming soon" className="img-fluid" src="/assets/images/event/blog/instagram-placeholder.png" />
                             </a>
                         </Link>
                     </li>
                     <li>
                         <Link href="">
-                            <a href="#javascript">
-                            <img alt="" className="img-fluid" src="/assets/images/agency/blog/6.jpg" />
+                        <a href="#">
+                            <img alt="coming soon" className="img-fluid" src="/assets/images/event/blog/instagram-placeholder.png" />
                             </a>
                         </Link>
                     </li>
@@ -40,29 +40,29 @@ const Instagram = ({}) => {
                 <ul className="blog-insta">
                     <li>
                         <Link href="">
-                            <a href="#javascript">
-                            <img alt="" className="img-fluid" src="/assets/images/agency/blog/6.jpg" />
+                        <a href="#">
+                            <img alt="coming soon" className="img-fluid" src="/assets/images/event/blog/instagram-placeholder.png" />
                             </a>
                         </Link>
                     </li>
                     <li>
                         <Link href="">
-                            <a href="#javascript">
-                            <img alt="" className="img-fluid" src="/assets/images/agency/blog/4.jpg" />
+                        <a href="#">
+                            <img alt="coming soon" className="img-fluid" src="/assets/images/event/blog/instagram-placeholder.png" />
                             </a>
                         </Link>
                     </li>
                     <li>
                         <Link href="">
-                            <a href="#javascript">
-                            <img alt="" className="img-fluid" src="/assets/images/agency/blog/3.png" />
+                        <a href="#">
+                            <img alt="coming soon" className="img-fluid" src="/assets/images/event/blog/instagram-placeholder.png" />
                             </a>
                         </Link>
                     </li>
                     <li>
                         <Link href="">
-                            <a href="#javascript">
-                            <img alt="" className="img-fluid" src="/assets/images/agency/blog/2.jpg" />
+                        <a href="#">
+                            <img alt="coming soon" className="img-fluid" src="/assets/images/event/blog/instagram-placeholder.png" />
                             </a>
                         </Link>
                     </li>

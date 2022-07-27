@@ -4,7 +4,7 @@ const PopularPosts = ({}) => {
 
     return (
         <div>
-            <h5 className="blog-title">popular posts</h5>
+            <h5 className="blog-title">Must Read:</h5>
             <div className="sidebar-container">
                 <div className="post-container d-flex">
                     <div className="w-35 m-r-25">
@@ -12,38 +12,38 @@ const PopularPosts = ({}) => {
                         <div className="badge">2022</div>
                     </div>
                     <div>
-                        <h5 className="post-head">lorem ipsum</h5>
-                        <h6 className="date">nov 22, 2022</h6>
+                        <a href="/blog/posts/why-blockchain-is-important-for-our-future"><h5 className="post-head">Why Blockchain...</h5></a>
+                        <h6 className="date">July 26, 2022</h6>
                     </div>
                 </div>
                 <div className="post-container d-flex">
                     <div className="w-35 m-r-25">
-                        <img alt="" className="img-fluid" src="/assets/images/inner-page/side-img/2.jpg" />
+                        <img alt="" className="img-fluid" src="/assets/images/inner-page/side-img/1.jpg" />
                         <div className="badge badge-red">2022</div>
                     </div>
                     <div>
-                        <h5 className="post-head">lorem ipsum</h5>
-                        <h6 className="date">nov 22, 2022</h6>
+                    <a href="/blog/posts/why-blockchain-is-important-for-our-future"><h5 className="post-head">Why Blockchain...</h5></a>
+                        <h6 className="date">July 26, 2022</h6>
                     </div>
                 </div>
                 <div className="post-container d-flex">
                     <div className="w-35 m-r-25">
-                        <img alt="" className="img-fluid" src="/assets/images/inner-page/side-img/3.jpg" />
+                        <img alt="" className="img-fluid" src="/assets/images/inner-page/side-img/1.jpg" />
                         <div className="badge badge-yellow">2022</div>
                     </div>
                     <div>
-                        <h5 className="post-head">lorem ipsum</h5>
-                        <h6 className="date">nov 22, 2022</h6>
+                    <a href="/blog/posts/why-blockchain-is-important-for-our-future"><h5 className="post-head">Why Blockchain...</h5></a>
+                        <h6 className="date">July 26, 2022</h6>
                     </div>
                 </div>
                 <div className="post-container d-flex">
                     <div className="w-35 m-r-25">
-                        <img alt="" className="img-fluid" src="/assets/images/inner-page/side-img/4.jpg" />
+                        <img alt="" className="img-fluid" src="/assets/images/inner-page/side-img/1.jpg" />
                         <div className="badge badge-blue">2022</div>
                     </div>
                     <div>
-                        <h5 className="post-head">lorem ipsum</h5>
-                        <h6 className="date">nov 22, 2022</h6>
+                    <a href="/blog/posts/why-blockchain-is-important-for-our-future"><h5 className="post-head">Why Blockchain...</h5></a>
+                        <h6 className="date">July 26, 2022</h6>
                     </div>
                 </div>
             </div>

@@ -14,11 +14,9 @@ const Footer = () => (
                         <div className="link link-horizontal">
                             <ul className="justify-content-center">
                                 <li><a className="copyright-text" href="#">home</a></li>
-                                <li><a className="copyright-text" href="#">couple</a></li>
-                                <li><a className="copyright-text" href="#">invitation</a></li>
-                                <li><a className="copyright-text" href="#">album </a></li>
-                                <li><a className="copyright-text" href="#">friends say</a></li>
-                                <li><a className="copyright-text" href="#">gift</a></li>
+                                <li><a className="copyright-text" href="#">blog</a></li>
+                                <li><a className="copyright-text" href="#">comparison</a></li>
+                                <li><a className="copyright-text" href="#">about us</a></li>
                             </ul>
                         </div>
                     </Col>
@@ -27,22 +25,22 @@ const Footer = () => (
                             <div className="social-link link-horizontal">
                                 <ul className="justify-content-center">
                                     <li>
-                                        <a className="copyright-text" href="https://www.facebook.com/">
+                                        <a className="copyright-text" href="#">
                                             <i aria-hidden="true" className="fa fa-facebook"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a className="copyright-text" href="https://twitter.com/">
+                                    <a className="copyright-text" href="#">
                                             <i aria-hidden="true" className="fa fa-twitter"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a className="copyright-text" href="https://accounts.google.com/">
+                                    <a className="copyright-text" href="#">
                                             <i aria-hidden="true" className="fa fa-google"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a className="copyright-text " href="https://www.instagram.com/">
+                                    <a className="copyright-text" href="#">
                                             <i aria-hidden="true" className="fa fa-instagram"></i>
                                         </a>
                                     </li>
@@ -66,7 +64,7 @@ const Footer = () => (
                     </Col>
                     <Col sm="6">
                         <div>
-                            <h6 className="copyright-text text-white text-end">Copyright © 2022 Unice by <i aria-hidden="true" className="fa fa-heart"></i> pixelstrap
+                            <h6 className="copyright-text text-white text-end">Copyright © 2022, by Imusify
                             </h6>
                         </div>
                     </Col>

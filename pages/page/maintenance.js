@@ -16,22 +16,26 @@ const Maintenance = () => (
                 <div className="social m-t-20">
                     <ul>
                         <li>
-                            <a href="https://www.facebook.com/">
+                            <a href="#">
+                                {/* facebook - to be replaced later */}
                                 <i aria-hidden="true" className="fa fa-facebook center-content"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://twitter.com/">
+                        <a href="#">
+                                {/* twitter - to be replaced later */}
                                 <i aria-hidden="true" className="fa fa-twitter center-content"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://accounts.google.com/">
+                        <a href="#">
+                                {/* google - to be replaced later */}
                                 <i aria-hidden="true" className="fa fa-google center-content"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.instagram.com/">
+                        <a href="#">
+                                {/* instagram - to be replaced later */}
                                 <i aria-hidden="true" className="fa fa-instagram center-content"></i>
                             </a>
                         </li>

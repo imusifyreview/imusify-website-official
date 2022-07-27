@@ -2,7 +2,8 @@ export const MENUITEMS = [
    {
       title: 'Blog', type: 'sub', children: [
          { path: '/blog/', title: 'Blog Home', type: 'link' },
-         { path: '/blog/posts/review-comparison', title: 'Review Comparison', type: 'link' }
+         { path: '/blog/posts/review-comparison', title: 'Review Comparison', type: 'link' },
+         { path: '/blog/posts/why-blockchain-is-important-for-our-future', title: 'The Importance Of Blockchain', type: 'link' }
       ]
    },
    {

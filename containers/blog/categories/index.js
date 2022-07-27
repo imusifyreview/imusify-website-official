@@ -10,7 +10,7 @@ const Categories = ({}) => (
                     <Link href="#"> 
                         <a>
                             <i aria-hidden="true" className="fa fa-angle-right m-r-15"></i>
-                            Lorem Ipsum Is Simple
+                            Crypto Music Projects
                         </a>
                     </Link>
                 </li>
@@ -18,7 +18,7 @@ const Categories = ({}) => (
                     <Link href="#"> 
                         <a>
                             <i aria-hidden="true" className="fa fa-angle-right m-r-15"></i>
-                            Many Variations
+                            Other Crypto Projects
                         </a>
                     </Link>
                 </li>
@@ -26,7 +26,7 @@ const Categories = ({}) => (
                     <Link href="#"> 
                         <a>
                             <i aria-hidden="true" className="fa fa-angle-right m-r-15"></i>
-                            random text
+                            Market And Analysis
                         </a>
                     </Link>
                 </li>
@@ -34,7 +34,7 @@ const Categories = ({}) => (
                     <Link href="#"> 
                         <a>
                             <i aria-hidden="true" className="fa fa-angle-right m-r-15"></i>
-                            Lorem Ipsum
+                            All Things Music
                         </a>
                     </Link>
                 </li>
@@ -42,7 +42,7 @@ const Categories = ({}) => (
                     <Link href="#"> 
                         <a>
                             <i aria-hidden="true" className="fa fa-angle-right m-r-15"></i>
-                            it's Random
+                            Blockchain Education
                         </a>
                     </Link>
                 </li>

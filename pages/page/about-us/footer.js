@@ -25,13 +25,14 @@ const Footer = () => (
                     <div className="text-center">
                         <div className="social-link link-horizontal">
                             <ul className="justify-content-center">
-                                <li><a className="copyright-text" href="https://www.facebook.com/"><i aria-hidden="true" className="fa fa-facebook"></i></a>
+                                <li><a className="copyright-text" href="#"><i aria-hidden="true" className="fa fa-facebook"></i></a>
+                                {/* facebook twitter google instagram to be replaced later */}
                                 </li>
-                                <li><a className="copyright-text" href="https://twitter.com/"><i aria-hidden="true" className="fa fa-twitter"></i></a>
+                                <li><a className="copyright-text" href="#"><i aria-hidden="true" className="fa fa-twitter"></i></a>
                                 </li>
-                                <li><a className="copyright-text" href="https://accounts.google.com/"><i aria-hidden="true" className="fa fa-google"></i></a>
+                                <li><a className="copyright-text" href="#"><i aria-hidden="true" className="fa fa-google"></i></a>
                                 </li>
-                                <li><a className="copyright-text " href="https://www.instagram.com/"><i aria-hidden="true"
+                                <li><a className="copyright-text " href="#"><i aria-hidden="true"
                                     className="fa fa-instagram"></i></a></li>
                             </ul>
                         </div>

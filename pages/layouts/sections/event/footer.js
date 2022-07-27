@@ -66,22 +66,26 @@ const Footer = () => (
                         <div className="link-horizontal d-flex align-content-lg-center h-100">
                             <ul>
                                 <li>
-                                    <a className="center-content" href="https://www.facebook.com/">
+                                <a className="center-content" href="#">
+                                        {/* facebook - to be replaced later */}
                                         <i className="fa fa-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="center-content" href="https://twitter.com/">
+                                <a className="center-content" href="#">
+                                        {/* twitter - to be replaced later */}
                                         <i className="fa fa-twitter"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="center-content" href="https://www.instagram.com/">
+                                    <a className="center-content" href="#">
+                                        {/* instagram - to be replaced later */}
                                         <i className="fa fa-instagram"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="center-content" href="https://accounts.google.com/">
+                                <a className="center-content" href="#">
+                                        {/* google - to be replaced later */}
                                         <i className="fa fa-google"></i>
                                     </a>
                                 </li>
