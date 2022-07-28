@@ -8,7 +8,7 @@ const Footer = () => (
                     <Col md="6" className="offset-md-3">
                         <div className="title title3 only-title">
                             <div className="main-title">
-                                <h2 className=" text-white">Contact Us If You Are Interested</h2>
+                                <h2 className=" text-white">Contact Us To Learn More About Us</h2>
                             </div>
                         </div>
                     </Col>
@@ -92,8 +92,11 @@ const Footer = () => (
                             </ul>
                         </div>
                     </Col>
-                    <Col md="6">
-                        <p className="copyright-text text-end text-white">© 2022 Imusify. All Rights Reserved </p>
+                    <Col md="3">
+                    <p className="copyright-text text-end text-white"><a href="privacy-policy">Privacy Policy</a> | <a href="terms-and-conditions">Terms</a></p>
+                    </Col>
+                    <Col md="3">
+                        <p className="copyright-text text-end text-white">© 2022 Imusify</p>
                     </Col>
                 </Row>
             </Container>

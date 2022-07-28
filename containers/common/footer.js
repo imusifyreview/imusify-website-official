@@ -57,14 +57,14 @@ const Footer = () => (
                     <Col sm="6">
                         <div className="link-horizontal">
                             <ul>
-                                <li><a className="copyright-text" href="#">Privacy Policy</a></li>
-                                <li><a className="copyright-text" href="#">Terms &amp; Conditions</a></li>
+                                <li><a className="copyright-text" href="https://imusify.com/privacy-policy/">Privacy Policy</a></li>
+                                <li><a className="copyright-text" href="https://imusify.com/terms-and-conditions/">Terms &amp; Conditions</a></li>
                             </ul>
                         </div>
                     </Col>
                     <Col sm="6">
                         <div>
-                            <h6 className="copyright-text text-white text-end">Copyright © 2022, by Imusify
+                            <h6 className="copyright-text text-white text-end">Copyright © 2022 by Imusify
                             </h6>
                         </div>
                     </Col>

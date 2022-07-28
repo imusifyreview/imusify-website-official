@@ -64,15 +64,16 @@ const CryptoFuture = () => (
                                 <h3 className="about-font-header text-white">Knowledge Is Power</h3>
                             </div>
                             <div className="format-sub-text">
-                                 <p className="about-para">If you are a musician or music fan, and you want to understand
-                                 crypto and why should they matter for you, there are plenty of good resources to start learning.</p>
-                                 <p className="about-para">Here is the list of our top recommendations for new beginners:
-                                 <li className>Our own <a href="/blog" target="_blank">blog</a> => Mostly focused on crypto music platforms but we plan to educate everybody about the broader crypto ecosystem</li> 
+                                 <p className="textwithlinks">If you are a musician or music fan, and you want to understand
+                                 crypto and why should they matter for you, there are plenty of good resources to start learning.
+                                 Here is the list of our top recommendations for new beginners:</p>
                                  <div>&nbsp;</div>
-                                 <li><a href="https://university.despace.io" target="_blank">Despace University</a> => Very comprehensive cryptocurrency articles and guides. Mainly focused on market analysis and DeFi</li>
+                                 <p className="textwithlinks">Our own <a href="/blog" target="_blank">blog</a> => Mostly focused on crypto music platforms but we plan to educate everybody about the broader crypto ecosystem</p>
                                  <div>&nbsp;</div>
-                                 <li><a href="https://www.coursera.org/learn/cryptocurrency" target="_blank">Coursera</a> => In-depth Bitcoin technical course that you need if you want to dive deeper to the technical stuff</li>
-                                 </p>
+                                 <p className="textwithlinks"><a href="https://university.despace.io" target="_blank">Despace University</a> => Very comprehensive cryptocurrency articles and guides. Mainly focused on market analysis and DeFi</p>
+                                 <div>&nbsp;</div>
+                                 <p className="textwithlinks"><a href="https://www.coursera.org/learn/cryptocurrency" target="_blank">Coursera</a> => In-depth Bitcoin technical course that you need if you want to dive deeper to the technical stuff</p>
+                                 
                             </div>
                             {/* <a className="btn btn-default " href="#">learn more</a> */}
                         </div>

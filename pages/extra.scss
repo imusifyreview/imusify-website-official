@@ -1,0 +1,30 @@
+.tabledesign {
+    border: 1px solid rgb(113, 109, 109);
+  }
+
+.textwithlinks {
+
+  a:link {
+    font-size: 16px;
+    color: rgb(7, 61, 169);
+  }
+  
+  /* visited link */
+  a:visited {
+    font-size: 16px;
+    color: rgb(7, 61, 169);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    font-size: 16px;
+    color: rgb(23, 163, 65);
+  }
+  
+  /* selected link */
+  a:active {
+    font-size: 16px;
+    color: rgb(7, 61, 169);
+  }
+}
+  

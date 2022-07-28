@@ -31,9 +31,10 @@ const About = () => (
                                 <h3 className="about-font-header text-white">Blockchain Integration Is Inevitable</h3>
                             </div>
                             <div className="format-sub-text">
-                                <p className="about-para">Many skeptics criticize blockchain and NFT use cases in various industries
+                                <p className="textwithlinks">Many skeptics criticize blockchain and NFT use cases in various industries
                                  (i.e., gaming and finance). Meanwhile, according to The Verge, the music industry has been pretty much <a href="https://www.theverge.com/22917126/nfts-crypto-gamers-music-fans-fandoms" target="_blank">welcoming the blockchain adoption</a>.</p>
-                                <p className="about-para">Musicians have fans, and the utilization of blockchain and NFT technology will tremendously
+                                <div>&nbsp;</div>
+                                <p className="textwithlinks">Musicians have fans, and the utilization of blockchain and NFT technology will tremendously
                                     help musicians to directly connect with their own fans. This is good for the industry 
                                     because record labels often cut musicians' profits left and right. The potential in 
                                     blockchain music category is huge. It's the perfect time to get in 👇</p>

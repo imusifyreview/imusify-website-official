@@ -25,7 +25,7 @@ const ImageWrapper = () => (
     <div className="blog-block">
         <div className="blog-box">
             <div className="overflow-hidden">
-            <img alt="let us see how blockchain will affect our future" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/why-blockchain-is-important-2.jpg" /></div>
+            <img alt="privacy policy" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/privacy-policy.jpg" /></div>
         </div>
     </div>
 )
@@ -34,17 +34,17 @@ const GalleryWrapper = () => (
     <Slider {...settings}>
         <div className="item">
             <div className="border-portfolio">
-                
-                        <img alt="let us see how blockchain will affect our future" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/why-blockchain-is-important-1.jpg" />           
-              
+               
+                        <img alt="privacy policy" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/privacy-policy.jpg" />           
+               
             </div>
         </div>
         <div className="item">
             <div className="border-portfolio">
-               
+            
                     <img alt="" className="img-fluid blur-up lazyload "
                         src="/assets/images/agency/blog/10.jpg" />
-              
+               
             </div>
         </div>
     </Slider>
@@ -92,71 +92,29 @@ const DetailWrapper = ({ className, showcaseType }) => {
             {Showcase()}
 
             <div className="blog-text m-t-20">
-                <h6>July 26th, 2022</h6>
-                    <h1 className="blog-head">Why Blockchain Is Important For Our Future</h1>
+              
+                    <h1 className="blog-head">Privacy Policy - Imusify</h1>
                 <div className="blog-divider"></div>
                 <div className="blog-description">
-                    <p>
-                    If you are reading this article then it means that you have either heard or read something about blockchain. However, if you did not know anything about it before, then let me tell you how important it is.</p>
+                <p>This privacy policy manages the crucial details in regards to the usage and collection of your info that we grab on https://imusify.com </p>
 
-                    <p>The word "block" comes from the name given by Satoshi Nakamoto in 2008 when he introduced a digital ledger system based on peer-to-peer networking which was later named as Bitcoin (BTC). He used these blocks to store transactions between users without any third party interference. The nodes were maintained in a decentralized way where everybody could have the same copy of the ledger.</p>
+<p>By using and navigating our website, you as the user basically agree that we can use your information on this website. </p>
 
-                    <p>Since its inception, BTC has been considered the best form of cryptocurrency due to its high security standards and high level of trust from its long-term buyers. This led to an exponential increase in demand for other cryptocurrencies like Ethereum (ETH), Litecoin (LTC) and others. </p>
+<p>We fully honor your privacy rights as well as your personal information. Here is how we use your information and what you need to know about your privacy rights on Imusify.com:</p>
 
-                    <p>Today, there are over 1,500 different coins being traded globally with each having their own unique features. </p>
+<p><strong>What we collect from you:</strong></p>
+<p>As of now we do not collect any data from you as our comment section is not even live yet. But as soon as it goes live, we might require user registration, which in that case, we will collect your cookies and usage data, as well as your name and email address.</p>
 
-                    <p>However, despite all the hype surrounding bitcoin, most people do not really understand how exactly it works. So, here we take a look at some basic definitions to help you get started understanding the basics behind blockchains and why they are important for our future.</p>
 
-                    <h2>What Is Blockchain?</h2>
+<p><strong>What do we use your personal information for:</strong></p>
+<p>Once again, as of now, we do not collect any data or information from you. But once the comment section is live, we will collect your username, email address, cookies, and usage data, and they will be used to provide better service accuracy to you, such as to show relevant related posts information.</p>
 
-                    <div>&nbsp;</div><div>&nbsp;</div>
-
-                    <p>A blockchain network consists of nodes connected via cryptography. Each node acts as a database storing information pertaining to specific data transactions, which can only be accessed through consensus mechanisms among peers. </p>
-
-                    <p>A single file called hash chain stores every transaction made using public key encryption along with other relevant details such as time stamp, user ID, etc., thereby creating the entire distributed ledger for the entire network. </p>
-
-                    <p>In addition, the blockchain also helps create tamper-proof records keeping everyone accountable while ensuring that no individual can alter or delete any previous record stored within the ledger. As mentioned above, this process takes place in a decentralized manner where no central authority controls the whole operation but rather relies upon cryptographic proof instead. </p>
-
-                    <p>Thus, it makes sure that nobody can manipulate the information or change history as they please. There are two types of networks depending on whether they operate alone or together. If operated separately, they are known as private chains, whereas those run simultaneously is referred to as public chains. Private chains are usually shared only among corporations and institutions, while anybody can participate in public chains with monetary incentives in the form of cryptocurrency.</p>
-
-                    <h2>Why is blockchain important for our future?</h2>
-
-                    <div>&nbsp;</div><div>&nbsp;</div>
-
-                    <p>As discussed earlier, blockchain is a type of distributed computing platform built around decentralization principles. Due to its inherent nature, it enables individuals across various locations to collaborate effectively without relying on centralized authorities. Therefore, it ensures complete transparency in terms of operations carried out. </p>
-
-                    <p>Additionally, because of its open source code, anybody who wishes to make changes or add functionality to the existing framework can easily do so. Furthermore, it allows businesses to reduce operational costs since there is no need to hire additional personnel for maintenance purposes. </p>
-
-                    <p>Also, blockchain eliminates the risk associated with human errors during manual processes making it easier for companies operating large-scale systems. These factors combined lead to increased adoption rates for blockchain technology worldwide. </p>
-
-                    <p>It is important to be optimistic about blockchain. The current market trend suggests that companies will continue adopting blockchain technologies despite the current bear market.</p> 
-
-                    <p>Blockchain applications will grow exponentially, resulting in the creation of several thousand of jobs across numerous industries. With increasing numbers of developers joining the industry, it is likely that the number of job openings related to blockchain development will exceed some of other mainstream tech industries by 2025.</p>
-
-                    <p>It should come as no surprise, therefore, that the US Bureau of Labor Statistics projects that nearly half a million new jobs will emerge in the next decade in fields like cybersecurity, software engineering, and artificial intelligence, which all will be connected to the blockchain industry itself.</p>
-
-                    <h2>Blockchain Use Cases</h2>
-                    <div>&nbsp;</div><div>&nbsp;</div>
-
-                    <img alt="the importance of blockchain is undeniable" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/why-blockchain-is-important-3.jpg" />
-
-                    <div>&nbsp;</div><div>&nbsp;</div>
-
-                    <p>Although the benefits provided by blockchain technology cannot be denied, there remains confusion regarding its exact purpose of it. For example, even though it provides protection against the potential risk that’s caused by centralizations, there are still concerns raised regarding the actual need for it. </p>
-
-                    <p>Similarly, although it reduces transaction costs considerably, there are certain instances wherein it increases the overall cost of doing business, as pointed out by how expensive Bitcoin or Ethereum gas fees could be at times. </p>
-
-                    <p>Nevertheless, if utilized properly, blockchain can greatly improve efficiency levels, enhance customer experience and provide better access to financial resources. Some of the prominent examples include food safety certification, identity verification, online voting, anti-counterfeiting measures, secure storage, trustless exchange between two parties, and even more transparent healthcare records.</p>
-
-                    <p>Thus, regardless of your interest in learning more about this technology, there is certainly enough scope available for you to explore further. When it comes to music, there are real use cases out there, such as NFT utilization to modernize ticketing systems and how musicians can sell directly to their fans without predatory behaviors from the music record labels.</p>
-
-                    <h5>Rachel Stewart</h5>
                     {/* <h5 className="pull-right">10<i className="fa fa-heart-o ms-1"></i>, 50<i className="fa fa-comments-o ms-1"></i></h5> */}
                 </div>
             </div>
             {/* <!-- Comment Sec Start --> */}
 
-            <h3 className="page-header-comment">Comments :</h3>
+            {/* <h3 className="page-header-comment">Comments :</h3> */}
             <div className="comment-list blog_comment">
                 {/* <div className="comment_sec">
                     <article className="row">
@@ -290,7 +248,7 @@ const DetailWrapper = ({ className, showcaseType }) => {
                 </div> */}
             </div>
             {/* <!-- Comment Sec End --> */}
-            <div className="quote_2 comment_form_sec">
+            {/* <div className="quote_2 comment_form_sec">
                 <div className="container">
                     <div className="row">
                         <Col xs="12" className="quote_form p-0">
@@ -321,7 +279,7 @@ const DetailWrapper = ({ className, showcaseType }) => {
                         </Col>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </div>
     )
 }

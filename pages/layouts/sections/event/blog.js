@@ -39,10 +39,12 @@ const Blog = () => (
                                 who want to learn more about the crypto and web3 space. Our blog is dedicated to provide
                                 all the most comprehensive reviews regarding different projects and companies in the blockchain industry.
                             </p>
+                            <div>&nbsp;</div>
+                            <p className="textwithlinks">Check out <a href="/blog">our blog</a> section here and start learning</p>
                         </div>
                     </div>
                 </Col>
-                <Col xs="12">
+                {/* <Col xs="12">
                     <Slider className="owl-carousel owl-theme" {...settings}>
                         {BlogData.length > 0?
                             BlogData.map((item, index) => 
@@ -91,7 +93,7 @@ const Blog = () => (
                         ):
                         'No Records Found !!'}
                     </Slider>
-                </Col>
+                </Col> */}
             </Row>
         </Container>
     </section>

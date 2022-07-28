@@ -8,10 +8,10 @@ const Copyright = () => (
                     <div className="link-horizontal center-text">
                         <ul>
                             <li>
-                                <a className="copyright-text op-text" href="#">Privacy Policy</a>
+                                <a className="copyright-text op-text" href="https://imusify.com/privacy-policy/">Privacy Policy</a>
                             </li>
                             <li>
-                                <a className="copyright-text op-text" href="#">Terms &amp; Conditions</a>
+                                <a className="copyright-text op-text" href="https://imusify.com/terms-and-conditions/">Terms &amp; Conditions</a>
                             </li>
                         </ul>
                     </div>
