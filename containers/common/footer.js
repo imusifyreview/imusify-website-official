@@ -13,10 +13,10 @@ const Footer = () => (
                     <Col xs="12">
                         <div className="link link-horizontal">
                             <ul className="justify-content-center">
-                                <li><a className="copyright-text" href="#">home</a></li>
-                                <li><a className="copyright-text" href="#">blog</a></li>
-                                <li><a className="copyright-text" href="#">comparison</a></li>
-                                <li><a className="copyright-text" href="#">about us</a></li>
+                                <li><a className="copyright-text" href="https://imusify.com">home</a></li>
+                                <li><a className="copyright-text" href="https://imusify.com/blog">blog</a></li>
+                                <li><a className="copyright-text" href="https://imusify.com/blog/posts/review-comparison">comparison</a></li>
+                                <li><a className="copyright-text" href="https://imusify.com/page/about-us">about us</a></li>
                             </ul>
                         </div>
                     </Col>

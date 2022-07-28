@@ -8,7 +8,7 @@ import NewsLetter from "../containers/blog/newsletter"
 import Instagram from "../containers/blog/instagram"
 
 const Detail = () => (
-    <CommonLayout pathList={[]} pathTitle="Why Blockchain Is Important For Our Future">
+    <CommonLayout pathList={[]} pathTitle="Privacy Policy">
         <section className="agency blog-sec blog-sidebar single_blog_item">
             <Container>
                 <Row>

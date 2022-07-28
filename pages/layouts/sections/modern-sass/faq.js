@@ -68,7 +68,7 @@ const Faq = () => {
                                         <DummyContent4 />
                                     </AccordionItem>
                                 </Accordion>
-                                <h6 className="link">Still have a question? Reach out to us: <a>demo@123.com</a></h6>
+                                <h6 className="link">Still have a question? Reach out to us: <a>demfo@123.com</a></h6>
                             </div>
                         </div>
                     </Col>

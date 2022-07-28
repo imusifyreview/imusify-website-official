@@ -8,7 +8,7 @@ const Contact2 = () => (
                     <div className="title title2 title-inner">
                         <div className="main-title">
                             <h2 className="font-primary borders text-center main-text text-uppercase my-0">
-                                <span>contact 2</span></h2>
+                                <span>We Are Waiting For Your Message</span></h2>
                         </div>
                     </div>
                 </Col>
@@ -20,22 +20,22 @@ const Contact2 = () => (
                     <Col sm="4">
                         <div className="contact-details text-center">
                             <h4 className="contact-heading text-white ">Show address</h4>
-                            <h6 className="contact-sub-text text-white">Exllasa Mall,</h6>
-                            <h6 className="contact-sub-text text-white">City mall, marid.</h6>
+                            <h6 className="contact-sub-text text-white">location will be updated later</h6>
+                            <h6 className="contact-sub-text text-white">location will be updated later</h6>
                         </div>
                     </Col>
                     <Col sm="4">
                         <div className="contact-details text-center">
                             <h4 className="contact-heading text-white ">Show address</h4>
-                            <h6 className="contact-sub-text text-white">Exllasa Mall,</h6>
-                            <h6 className="contact-sub-text text-white">City mall, marid.</h6>
+                            <h6 className="contact-sub-text text-white">location will be updated later</h6>
+                            <h6 className="contact-sub-text text-white">location will be updated later</h6>
                         </div>
                     </Col>
                     <Col sm="4">
                         <div className="contact-details text-center">
                             <h4 className="contact-heading  text-white">Show address</h4>
-                            <h6 className="contact-sub-text text-white">Exllasa Mall,</h6>
-                            <h6 className="contact-sub-text text-white">City mall, marid.</h6>
+                            <h6 className="contact-sub-text text-white">location will be updated later</h6>
+                            <h6 className="contact-sub-text text-white">location will be updated later</h6>
                         </div>
                     </Col>
                 </Row>

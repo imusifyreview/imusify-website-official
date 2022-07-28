@@ -1,14 +1,14 @@
 import React from 'react';
 import {Container,Row,Col} from 'reactstrap'
-import CommonLayout from "../../../containers/common/common-layout-blog-post-review-comparison"
-import DetailSecion from '../../../containers/blog/card/detail-wrapper-2'
+import CommonLayout from "../../../containers/common/common-layout-review-comparison"
+import DetailSecion from '../../../containers/blog/card/detail-wrapper-review-comparison'
 import Categories from "../../../containers/blog/categories"
 import PopularPosts from "../../../containers/blog/posts"
 import NewsLetter from "../../../containers/blog/newsletter"
 import Instagram from "../../../containers/blog/instagram"
 
 const Detail = () => (
-    <CommonLayout pathList={['blog', 'blog details', 'right sidebar']} pathTitle="BLOG WITH right-sidebar">
+    <CommonLayout pathList={[]} pathTitle="Crypto Music Platforms - Review And Comparison">
         <section className="agency blog-sec blog-sidebar single_blog_item">
             <Container>
                 <Row>

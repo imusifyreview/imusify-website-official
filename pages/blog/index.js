@@ -12,7 +12,7 @@ import Instagram from "../../containers/blog/instagram"
 
 const ListRightSidebar = ({ }) => (
     <>
-        <CommonLayout pathList={['blog', 'blog list view', 'right sidebar']} pathTitle="BLOG WITH RIGHT-SIDEBAR">
+        <CommonLayout pathList={[]} pathTitle="Imusify Articles">
             <section className="agency blog blog-sec blog-sidebar  blog-list sider">
                 <Container>
                     <Row className="ps-0 pe-0">

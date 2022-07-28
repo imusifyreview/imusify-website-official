@@ -9,7 +9,7 @@ const Contact1 = () => (
                         <div className="title title2 title-inner">
                             <div className="main-title">
                                 <h2 className="font-primary borders text-center main-text text-uppercase my-0">
-                                    <span>contact 1</span></h2>
+                                    <span>Contact Us - Imusify</span></h2>
                             </div>
                         </div>
                     </Col>
@@ -22,13 +22,11 @@ const Contact1 = () => (
                     <Col md="10" className="offset-md-1">
                         <div className="title title3">
                             <div className="main-title">
-                                <h2 className=" text-white">our schedule</h2>
+                                <h2 className=" text-white">If you have any question, do not hesitate to contact us</h2>
                             </div>
                             <div className="sub-title">
-                                <p className="text-white">Register now and reserve your seat for this
-                            <span>year's Unice,</span> the largest <span>web development</span> and online marketing
-                            <span>conference in UK,</span> covering everything you need to know in order to develop a
-                            successful online business.</p>
+                                <p className="text-white">Do not hesitate to contact the Imusify team, doesn't matter if you 
+                                are a musician, or music fan, or if you are a crypto project that tries to get marketing or promotion services.</p>
                             </div>
                         </div>
                     </Col>

@@ -20,8 +20,9 @@ const Booking = () =>
                                 where the crypto music industry currently stands.</p> 
                                 <div>&nbsp;</div>
                                 <p>Learn how the top projects in this category got to where
-                                they are today and how you can learn from them.
-                            </p>
+                                they are today and how you can learn from them. </p>
+                                <div>&nbsp;</div>
+                                <p className="textwithlinks"><a href="blog/posts/review-comparison"><u>Check our comparison</u></a></p>
                             <div>&nbsp;</div>
                             <table align="center" className="tabledesign">
                                 

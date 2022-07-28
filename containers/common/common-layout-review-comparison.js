@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import Head from 'next/head';
 
 import Header from "./header"
-import Breadcrumb from "./breadcrumb"
+// import Breadcrumb from "./breadcrumb"
 import Footer from "./footer"
 
 const CommonLayout = ({ children, pathList, pathTitle }) => {
@@ -17,10 +17,10 @@ const CommonLayout = ({ children, pathList, pathTitle }) => {
     return (
         <>
                     <Head>
-                <title>Imusify</title>
+                <title>Crypto Music Platforms - Review And Comparison - Imusify</title>
             </Head>
             <Header className="dark agency" />
-            <Breadcrumb list={pathList} title={pathTitle} />
+            {/* <Breadcrumb list={pathList} title={pathTitle} /> */}
 
             <>{children}</>
 
