@@ -1,0 +1,14 @@
+{
+    "rewrites": [
+      {
+        "source": "/:path*",
+        "has": [
+          {
+            "type": "host",
+            "value": "blog.imusify.com"
+          }
+        ],
+        "destination": "/blog/:path*"
+      }
+    ]
+  }
