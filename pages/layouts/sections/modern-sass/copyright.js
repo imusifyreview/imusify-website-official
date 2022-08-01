@@ -18,7 +18,7 @@ const Copyright = () => (
                 </Col>
                 <Col sm="6">
                     <div>
-                        <h6 className="copyright-text text-white text-end op-text">Copyright © 2022 Unice by <i
+                        <h6 className="copyright-text text-white text-end op-text">Copyright © 2022 Imusify by <i
                             aria-hidden="true" className="fa fa-heart mx-1"></i>
                             pixelstrap</h6>
                     </div>

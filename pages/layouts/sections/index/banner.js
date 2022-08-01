@@ -10,7 +10,7 @@ const Banner = () => (
                         <div className="center-text">
                             <div>
                                 <div className="header-text">
-                                    <h1>Showcase your app with Unice</h1>
+                                    <h1>Showcase your app with Imusify</h1>
                                 </div>
                                 <div className="header-sub-text">
                                     <p className="text-white p-light">Lorem Ipsum is simply dummy text of the printing and

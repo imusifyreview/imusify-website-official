@@ -14,7 +14,7 @@ const GitSection = () => (
                                 </div>
                                 <h1>One stop for all one page landings...</h1>
                                 <p>
-                                    Unice is Perfect landing HTML template for any business. it has all
+                                    Imusify is Perfect landing HTML template for any business. it has all
                                     features and modules to create your amazing landing page. you can use
                                     this template for selling Agency, app landding, coffee, event, gym, music, digital, pizza,
                                     resume, sass, wedding, yoga etc.

@@ -62,7 +62,7 @@ const Pricing = () => (
                                                         className="large font-primary">{item.price}</span></h6>
                                             </div>
 
-                                            <a className="btn btn-default back-white" href="#">Soon</a>
+                                            <a className="btn btn-default back-white" href="https://imusify.com/page/contact">Contact Us</a>
                                         </div>
                                     </div>
                                 </div>

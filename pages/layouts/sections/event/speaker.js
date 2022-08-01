@@ -34,6 +34,8 @@ const Speaker = () => (
                             <p>If you are a musician who wants to promote yourself and connect to the right crypto projects,
                                 we are here to help
                             </p>
+                            <div>&nbsp;</div>
+                            <p className="textwithlinks">Check our <a href="https://imusify.com/whitepaper.pdf" target="_blank">whitepaper</a> to learn more about what we do</p>
                         </div>
                     </div>
                 </Col>

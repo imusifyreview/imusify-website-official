@@ -7,7 +7,7 @@ const About = () => (
                 <Col lg="6" md="8"  className="offset-lg-3 offset-md-2">
                     <div className="title title">
                         <div className="main-title">
-                            <h2 className="text-white">About Unice</h2>
+                            <h2 className="text-white">About Imusify</h2>
                         </div>
                         <div className="sub-title">
                             <p className="text-white para">Lorem Ipsum is simply dummy text of the printing and typesetting

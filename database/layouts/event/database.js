@@ -4,7 +4,7 @@ module.exports = {
     PricingData: [
         {
             title: 'Promotion Service',
-            features: ['Telegram Marketing', 'Social Media Ads', 'Influencer Outreach'],
+            features: ['Press Releases', 'Social Media Ads', 'Offline Marketing'],
             price: '?',
         },
         {
