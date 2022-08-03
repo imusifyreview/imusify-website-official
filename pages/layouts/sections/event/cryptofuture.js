@@ -72,7 +72,7 @@ const CryptoFuture = () => (
                                  <div>&nbsp;</div>
                                  <p className="textwithlinks"><a href="https://university.despace.io" target="_blank">Despace University</a> => Very comprehensive cryptocurrency articles and guides. Mainly focused on market analysis and DeFi</p>
                                  <div>&nbsp;</div>
-                                 <p className="textwithlinks"><a href="https://www.coursera.org/learn/cryptocurrency" target="_blank">Coursera</a> => In-depth Bitcoin technical course that you need if you want to dive deeper to the technical stuff</p>
+                                 <p className="textwithlinks"><a href="https://consensys.net/knowledge-base/" target="_blank">Consensys</a> => In-depth blockchain technical courses that you need if you want to dive deeper to the technical stuff</p>
                                  
                             </div>
                             {/* <a className="btn btn-default " href="#">learn more</a> */}

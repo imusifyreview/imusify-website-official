@@ -118,7 +118,7 @@ const DetailWrapper = ({ className, showcaseType }) => {
                 <div>&nbsp;</div>
                 <p className="postwithlinks">For those who do not believe that crypto and NFT space will be able to help music, you can read <a href="https://pitchfork.com/features/article/how-nfts-are-shaping-the-way-music-sounds/" target="_blank">this article from pitchfork</a>. We truly believe now is the right time to build an app for the crypto music industry.</p>
 
-                <p className="postwithlinks">Despace University also published a really good article explaining the current state of crypto and the future despite 2022's market crash: <a href="https://university.despace.io/is-cryptocurrency-the-future-exploring-the-possibilities" target="_blank">https://university.despace.io/is-cryptocurrency-the-future-exploring-the-possibilities</a></p>
+                <p className="postwithlinks">Despace University also published a really good article explaining the current state of crypto and the future despite 2022's market crash: <a href="https://university.despace.io/is-cryptocurrency-the-future-exploring-the-possibilities" target="_blank">read it here</a></p>
                 
                 <h2>Objectives Of The App:</h2>
                 <div>&nbsp;</div>
