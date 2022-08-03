@@ -9,6 +9,7 @@ export const MENUITEMS = [
    {
       title: 'Pages', type: 'sub', children: [
          { path: '/page/about-us', title: 'About Us', type: 'link' },
+         { path: '/app', title: 'App', type: 'link' },
          { path: '/page/contact', title: 'Support', type: 'link' }
       ]
    },

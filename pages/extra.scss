@@ -27,4 +27,31 @@
     color: rgb(7, 61, 169);
   }
 }
+
+.postwithlinks {
+
+  a:link {
+    font-size: 14px;
+    color: rgb(7, 61, 169);
+  }
+  
+  /* visited link */
+  a:visited {
+    font-size: 14px;
+    color: rgb(7, 61, 169);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    font-size: 14px;
+    color: rgb(23, 163, 65);
+  }
+  
+  /* selected link */
+  a:active {
+    font-size: 14px;
+    color: rgb(7, 61, 169);
+  }
+}
+
   

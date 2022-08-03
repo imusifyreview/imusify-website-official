@@ -31,8 +31,8 @@ const Speaker = () => (
                                 and real musicians who care about the fans. We realize the potential is massive in this
                                 industry, and we plan to fill the gap that still exists up to this day.</p>
                                 <div>&nbsp;</div>
-                            <p>If you are a musician who wants to promote yourself and connect to the right crypto projects,
-                                we are here to help
+                            <p className="textwithlinks">If you are a musician who wants to promote yourself and connect to the right crypto projects,
+                                we are here to help. Wait for our <a href="https://imusify.com/app" target="_blank">app</a> to release in 2023
                             </p>
                             <div>&nbsp;</div>
                             <p className="textwithlinks">Check our <a href="https://imusify.com/whitepaper.pdf" target="_blank">whitepaper</a> to learn more about what we do</p>
