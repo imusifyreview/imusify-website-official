@@ -93,7 +93,7 @@ const Footer = () => (
                         </div>
                     </Col>
                     <Col md="3">
-                    <p className="copyright-text text-end text-white"><a href="privacy-policy">Privacy Policy</a> | <a href="terms-and-conditions">Terms</a></p>
+                    <p className="copyright-text text-end text-white"><a href="privacy-policy">Privacy Policy</a> | <a href="terms-and-conditions">Terms</a> | <a href="https://imusify.com/ico.pdf">Disclaimer</a></p>
                     </Col>
                     <Col md="3">
                         <p className="copyright-text text-end text-white">© 2022 Imusify</p>
