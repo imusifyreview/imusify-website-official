@@ -108,7 +108,7 @@ const DetailWrapper = ({ className, showcaseType }) => {
                     
                     <p>Unlike Spotify or other traditional streaming platforms, Audius does not make any revenue from the artists. They give an option to the musicians if they want to receive their revenues in Audius’ native token, AUDIO. The idea here is that when the AUDIO token price appreciates, the company will make more money since they allocated a certain amount of AUDIO tokens to themselves.</p>
                     
-                    <p>[Full review coming soon]</p>
+                    <p><a href="https://imusify.com/blog/posts/audius-music-platform-review">[Full Review]</a></p>
                     
                     <h2>Opulous (OPUL)</h2>
                     <div>&nbsp;</div>

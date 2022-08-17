@@ -38,7 +38,7 @@ const Booking = () =>
             <td className="tabledesign">Audius</td>
             <td className="tabledesign">AUDIO</td>
             <td className="tabledesign">Web3 Streaming Platform</td>
-            <td className="tabledesign">Coming Soon</td>
+            <td className="tabledesign"><a href="https://imusify.com/blog/posts/audius-music-platform-review" target="_blank">Click Here</a></td>
         </tr>
         <tr className="tabledesign">
             <td className="tabledesign">2</td>
