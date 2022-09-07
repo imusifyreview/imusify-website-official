@@ -68,12 +68,11 @@ const CryptoFuture = () => (
                                  crypto and why should they matter for you, there are plenty of good resources to start learning.
                                  Here is the list of our top recommendations for new beginners:</p>
                                  <div>&nbsp;</div>
-                                 <p className="textwithlinks">Our own <a href="/blog" target="_blank">blog</a> => Mostly focused on crypto music platforms but we plan to educate everybody about the broader crypto ecosystem</p>
+                                 <p className="textwithlinks"><a href="https://university.despace.io" target="_blank" rel="follow">Despace University</a> => Very comprehensive cryptocurrency articles and guides. Mainly focused on market analysis and DeFi</p>
                                  <div>&nbsp;</div>
-                                 <p className="textwithlinks"><a href="https://university.despace.io" target="_blank">Despace University</a> => Very comprehensive cryptocurrency articles and guides. Mainly focused on market analysis and DeFi</p>
+                                 <p className="textwithlinks"><a href="https://consensys.net/knowledge-base/" target="_blank" rel="follow">Consensys</a> => In-depth blockchain technical courses that you need if you want to dive deeper to the technical stuff</p>
                                  <div>&nbsp;</div>
-                                 <p className="textwithlinks"><a href="https://consensys.net/knowledge-base/" target="_blank">Consensys</a> => In-depth blockchain technical courses that you need if you want to dive deeper to the technical stuff</p>
-                                 
+                                 <p className="textwithlinks"><a href="https://icecold.finance" target="_blank" rel="follow">Learn Finance With IceCold</a> => General finance website that also covers cryptocurrency and stock market basics</p>
                             </div>
                             {/* <a className="btn btn-default " href="#">learn more</a> */}
                         </div>
