@@ -45,7 +45,7 @@ const Booking = () =>
             <td className="tabledesign">Opulous</td>
             <td className="tabledesign">OPUL</td>
             <td className="tabledesign">Music NFT & DeFi Loans</td>
-            <td className="tabledesign">Coming Soon</td>
+            <td className="tabledesign"><a href="https://imusify.com/blog/posts/opulous-platform-review" target="_blank">Click Here</a></td>
         </tr>
         <tr className="tabledesign">
             <td className="tabledesign">3</td>

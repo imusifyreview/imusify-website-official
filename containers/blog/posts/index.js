@@ -18,12 +18,12 @@ const PopularPosts = ({}) => {
                 </div>
                 <div className="post-container d-flex">
                     <div className="w-35 m-r-25">
-                        <img alt="" className="img-fluid" src="/assets/images/inner-page/side-img/1.jpg" />
+                        <img alt="" className="img-fluid" src="/assets/images/inner-page/side-img/opulous.jpg" />
                         <div className="badge badge-red">2022</div>
                     </div>
                     <div>
-                    <a href="/blog/posts/why-blockchain-is-important-for-our-future"><h5 className="post-head">Why Blockchain...</h5></a>
-                        <h6 className="date">July 26, 2022</h6>
+                    <a href="/blog/posts/opulous-platform-review"><h5 className="post-head">Opulous Review</h5></a>
+                        <h6 className="date">September 19, 2022</h6>
                     </div>
                 </div>
                 <div className="post-container d-flex">

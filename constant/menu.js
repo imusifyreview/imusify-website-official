@@ -4,6 +4,7 @@ export const MENUITEMS = [
          { path: '/blog/', title: 'Blog Home', type: 'link' },
          { path: '/blog/posts/review-comparison', title: 'Review Comparison', type: 'link' },
          { path: '/blog/posts/audius-music-platform-review', title: 'Audius Review', type: 'link' },
+         { path: '/blog/posts/opulous-platform-review', title: 'Opulous Review', type: 'link' },
          { path: '/blog/posts/why-blockchain-is-important-for-our-future', title: 'The Importance Of Blockchain', type: 'link' }
       ]
    },

@@ -25,7 +25,7 @@ const ImageWrapper = () => (
     <div className="blog-block">
         <div className="blog-box">
             <div className="overflow-hidden">
-            <img alt="let's compare all the most popular blockchain music projects" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/review-comparison-1.jpg" /></div>
+            <img alt="Opulous Review" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/opulous.jpg" /></div>
         </div>
     </div>
 )
@@ -35,7 +35,7 @@ const GalleryWrapper = () => (
         <div className="item">
             <div className="border-portfolio">
                 
-                        <img alt="let's compare all the most popular blockchain music projects" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/review-comparison-1.jpg" />           
+                        <img alt="Opulous Review" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/opulous.jpg" />           
               
             </div>
         </div>
@@ -65,7 +65,7 @@ const VideoWrapper = () => {
             <Modal isOpen={modal} toggle={toggle} centered={true} size="lg">
                 <ModalHeader toggle={toggle} className="modal-no-header close-up"></ModalHeader>
                 <ModalBody className="iframe-modal">
-                    <iframe className="mfp-iframe" frameBorder="0" allowFullScreen="" src="//www.youtube.com/embed/dNIfsv1rKJo?autoplay=1"></iframe>
+                    <iframe className="mfp-iframe" frameBorder="0" allowFullScreen="" src=""></iframe>
                 </ModalBody>
             </Modal>
         </Col>
@@ -92,76 +92,61 @@ const DetailWrapper = ({ className, showcaseType }) => {
             {Showcase()}
 
             <div className="blog-text m-t-20">
-                <h6>July 28th, 2022</h6>
-                    <h1 className="blog-head">Crypto Music Platforms - Review And Comparison</h1>
+                <h6>September 19th, 2022</h6>
+                    <h1 className="blog-head">Opulous Platform Review And Prediction - Imusify</h1>
                 <div className="blog-divider"></div>
                 <div className="blog-description">
-                <p>Here is the summary of all the most popular crypto music platforms and how they compare against each other. This page will be continuously updated when there are more platforms that are worth analyzing.</p>
- 
-                    <h2>Audius(AUDIO)</h2>
-                    <div>&nbsp;</div>
-                    <img alt="audius" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/audius.jpg" />
-                    <div>&nbsp;</div>
-                    <p>Arguably the most popular crypto music platform, Audius is basically a decentralized music streaming application. You can imagine it like Spotify but built on top of the blockchain. The goal of Audius is to provide more freedom to musicians and curators in regard to their music. </p>
-                    
-                    <p>The main infrastructure of Audius is that uploaded music and records will be managed by a decentralized mechanism. Audius also eliminates the need for third parties (i.e., record labels) when it comes to bridging the musicians to their listeners. Musicians who upload to Audius will have exclusive rights to all revenues generated on the platform.</p>
-                    
-                    <p>Unlike Spotify or other traditional streaming platforms, Audius does not make any revenue from the artists. They give an option to the musicians if they want to receive their revenues in Audius’ native token, AUDIO. The idea here is that when the AUDIO token price appreciates, the company will make more money since they allocated a certain amount of AUDIO tokens to themselves.</p>
-                    
-                    <p><a href="https://imusify.com/blog/posts/audius-music-platform-review">[Full Review]</a></p>
-                    
-                    <h2>Opulous (OPUL)</h2>
-                    <div>&nbsp;</div>
-                    <img alt="opulous" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/opulous.jpg" />
-                    <div>&nbsp;</div>
-                    <p>One of the most popular crypto music projects is Opulous. Unlike Audius, Opulous focuses on fundraising and DeFi loans targeted toward mainstream musicians. It doesn’t try to compete against Spotify or Youtube Music, but rather tries to focus its efforts more on the fundraising aspect.</p>
-                    
-                    <p>Opulous uses the mix of the DeFi yield farming mechanism with the NFT concept to connect the musicians and their fans. The idea here is that the fans can buy exclusive NFTs of their favorite musicians, and the raised funds will be given to the musicians who issue those NFTs through Opulous platform.</p>
-                    
-                    <p>They have been promoting some of the most mainstream names in the music industry, such as Lil Pump, Tyga, and Kyle. Many of their supporters and partners are big names such as Gate, KuCoin, Binance NFT, and Algorand.</p>
-                    
-                    
-                    <p><a href="https://imusify.com/blog/posts/opulous-platform-review">[Full Review]</a></p>
-                    
-                    <h2>Melos Studio (MELOS)</h2>
-                    <div>&nbsp;</div>
-                    <img alt="melos" className="img-fluid blur-up lazyload " src="/assets/images/event/blog/melos.jpg" />
-                    <div>&nbsp;</div>
-                    <p>A promising alternative crypto music project is called Melos Studio. It is a decentralized music marketplace platform, with NFT creation as its main focus. Based in Taiwan, Melos is positioned to be the go-to platform for musicians to create music NFTs and sell them directly to fans. </p>
-                    
-                    <p>You can say that Melos is (in a way) competing against Audius, since both of them allow the users to stream music directly. Although Melos doesn’t have the first-mover advantage compared to Audius, its focus on being the prime music NFTs platform might give it a competitive edge.</p>
-                    
-                    <p>Melos became popular after it announced that Binance Labs made a decent amount of investment into its platform in a very early stage. Many users believe Melos would eventually surpass other crypto music projects due to the backing that they receive. They also sold Queen NFTs in the early days, demonstrating how strongly connected their team is to the mainstream music industry.</p>
-                    
-                    <p>[Full review coming soon]</p>
-                    
-                    <h2>Viberate (VIB)</h2>
-                    <div>&nbsp;</div>
-                    <p>Unlike the other three music projects mentioned above, Viberate’s goal is to become the music analytics platform for professionals. It tries to find a sub-niche inside the crypto music niche. The idea here is that Viberate will allow its users to stream and airplay social media monitoring. </p>
-                    
-                    <p>It can also compare and do chart analysis between artists. On top of that, Vibrate will provide visualization of industry trends and audience growth. You can imagine the usual crypto research tools designed for the music industry, with VIB token being the main currency. There are some external factors that can make or break it for Viberate. </p>
-                    
-                    <p>In order for this type of analytics tool to become popular, it needs the entire crypto music platform to grow. Most artists and professionals in the music industry won’t bother buying VIB tokens if the utilization of crypto for the music industry is not popular in the first place.</p>
-                    
-                    <h2>The Husl (HUSL)</h2>
-                    <div>&nbsp;</div>
-                    <p>This is probably the least popular among the five music projects listed here. The Husl tries to be a music and entertainment platform in the metaverse. The idea here is to feature musicians and let them showcase their creativity and music in the world of Husl’s metaverse. </p>
-                    
-                    <p>As we all know, late 2021 was the year when metaverse became much more mainstream than before. However, the trend itself was short-lived, and the trend disappeared alongside the crypto market crash in 2022. Whether The Husl can convince musicians to “showcase” their music in The Husl’s metaverse or not, will depend on the market trends.</p>
-                    
-                    <p>Among all the projects listed here, I am much less convinced about The Husl. Let’s see if they can prove me wrong or not.</p>
-                    
-                    <p>[Full review coming soon]</p>
-                    
-                    <h2>Conclusion</h2>
-                    <div>&nbsp;</div>
-                    <p>The crypto music industry is still very young and way less mainstream compared to other categories in the cryptocurrency space. Some of the projects above try to combine the idea of music with other features (such as Opulous utilizing the idea of DeFi loans). Whether they will become successful or not, only time will tell. </p>
-                    
-                    <p>But one thing is for sure; the crypto music industry is here to stay. And it’s probably one of the crypto subcategories that makes the most sense.</p>
-                    
- 
+                <p>OPULOUS (OPUL) is one of the most promising blockchain-based music projects on the planet at the moment. Opulous is basically a fundraising platform as well as a decentralized application to register music copyrights. The idea is brilliant because Opulous tries to tap into a very niched market that nobody else tried to prior to the creation of their project.</p>
 
-                    <h5>Imran Yusuf</h5>
+                <p>The Opulous platform mixes the idea of DeFi yield generation with a unique NFT generation mechanism to empower musicians and artists. The idea here is that the artists can get loans to generate their new music and arts, while the fans can get exclusive NFTs from the same artists.</p>
+
+                <p>What makes Opulous great is the fact that it already has support from the giant names in the music industry as well as from the crypto space. It receives support from Gate.io, Kucoin, Lil Pump, Soulja Boy, Chance The Rapper, former Sony Music CEO, and more.</p>
+
+                <p>Unfortunately, Opulous has not been doing great this year. Just like every other mid-cap and low-cap cryptocurrency project, they have been struggling due to the ruthlessness of the bear market that affects the broader market at large.</p>
+
+
+                <h2>Background</h2>
+
+                <div>&nbsp;</div><div>&nbsp;</div>
+
+                <p>Many of the core team members of Opulous come from the same company; they used to work or are still working at Ditto Music, one of the leading distribution and record label services worldwide. Ditto Music has huge connections to mainstream musicians and artists, such as Ed Sheeran, Stormzy, Royal Blood, and many others. </p>
+
+                <p>Just from this background alone, you can see that Ditto Music executives and ex-employees are already “heavyweights” in the music industry. When they founded Opulous, they got a lot of big names as their advisors, including former Sony Music CEO (Nick Gatfield) and Chance The Rapper (Taylor Bennett).</p>
+
+                <p>Opulous solves one very specific issue in the music industry. Record deals for musicians have become a nightmare in recent times, where the artists basically don't have much leverage against record label companies until they become really famous (and let's be honest, most musicians fail to become mainstream).</p>
+
+                <p>Opulous' DeFi platform allows the artists to get funded and promote new projects. In return, the artists need to fulfill their obligation by releasing exclusive NFTs to the Opulous audience. Win-win for both. </p>
+
+                <p>This is a niche solution to a decade-long problem, where artists in the traditional industry often find it super difficult to get loans and funding before they become super mainstream.</p>
+
+
+
+                <h2>Blockchain Utilization</h2>
+
+                <div>&nbsp;</div><div>&nbsp;</div>
+
+                <p>Opulous is a multi-chain platform. It is already live on Ethereum, Binance Smart Chain, and Algorand, although the prime platform is Algorand. The strategy to go cross-platform is very smart because we are still early in the smart contract space (so, technically speaking, we still don't know who's going to come out on top eventually).</p>
+
+                <h2>OPUL Token Use Case</h2>
+
+                <div>&nbsp;</div><div>&nbsp;</div>
+
+                <p>OPUL token use case is to be used as the default currency in the Opulous platform. This means the currency for the entire DeFi activities in Opulous platform is to use OPUL. This will generate higher demand for OPUL tokens as NFT generation activities go up in the Opulous platform itself.</p>
+
+                <p>For example, if you want to create a music NFT to get funded in Opulous platform, you need to use OPUL. If you need to pay for services, you also need to use OPUL.</p>
+
+
+                <h2>Analysis - The Future Of Opulous Music Platform</h2>
+
+                <div>&nbsp;</div><div>&nbsp;</div>
+
+                <p>Opulous has tapped into a niche that nobody else in the crypto space has tapped. It doesn't mean it won't have competition in the future, but as things stand today, it's the only one that tries to solve musicians' funding issues by introducing DeFi loan solutions.</p>
+
+                <p>It's smart and unique, and it has the right team behind it. They have all the good recipes to be successful. If the cryptocurrency market picks up again someday, they should be able to take advantage of this as long as they have not run out of funds at the time.</p>
+
+
+
+                    <h5>Rachel Stewart</h5>
                     {/* <h5 className="pull-right">10<i className="fa fa-heart-o ms-1"></i>, 50<i className="fa fa-comments-o ms-1"></i></h5> */}
                 </div>
             </div>
