@@ -71,7 +71,7 @@ const CryptoFuture = () => (
                                  <p className="textwithlinks"><a href="https://university.despace.io" target="_blank" rel="follow">Despace University</a> => Very comprehensive cryptocurrency articles and guides. Mainly focused on market analysis and DeFi</p>
                                  <div>&nbsp;</div>
                                  <p className="textwithlinks"><a href="https://consensys.net/knowledge-base/" target="_blank" rel="follow">Consensys</a> => In-depth blockchain technical courses that you need if you want to dive deeper to the technical stuff</p>
-                                 <p>Check also why <a href="https://imusify.com/blog/posts/bitcoin-and-the-financial-world" target="_blank" rel="follow">Bitcoin matters in the financial world</a> despite recent FTX fallout.</p>
+                                 <p className="textwithlinks">Check also why <a href="https://imusify.com/blog/posts/bitcoin-and-the-financial-world" target="_blank" rel="follow">Bitcoin matters in the financial world</a> despite recent FTX fallout.</p>
                             </div>
                             {/* <a className="btn btn-default " href="#">learn more</a> */}
                         </div>
